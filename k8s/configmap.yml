@@ -1,0 +1,3 @@
+#Create ConfigMap with key and value, to be accessed while deploying SpringBoot application
+#For example `message: Welcome...`
+apiVersion: v1
